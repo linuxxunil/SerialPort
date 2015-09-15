@@ -1,5 +1,6 @@
 Project Name : Serial Port
 Author : Jesse
-Language : C#
-Target Framework : .NET Framework 2.0
+Develop Tool : Virtual Studio 2008
+Lanaguage : C#
+Target : Framework 2.0
 License : GPL
