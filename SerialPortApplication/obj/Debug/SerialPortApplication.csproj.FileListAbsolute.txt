@@ -1,0 +1,10 @@
+C:\Users\jesse\Documents\Visual Studio 2008\Projects\SerialPortApplication\SerialPortApplication\bin\Debug\SerialPortApplication.exe
+C:\Users\jesse\Documents\Visual Studio 2008\Projects\SerialPortApplication\SerialPortApplication\bin\Debug\SerialPortApplication.pdb
+C:\Users\jesse\Documents\Visual Studio 2008\Projects\SerialPortApplication\SerialPortApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jesse\Documents\Visual Studio 2008\Projects\SerialPortApplication\SerialPortApplication\obj\Debug\SerialPortApplication.SerialPortForm1.resources
+C:\Users\jesse\Documents\Visual Studio 2008\Projects\SerialPortApplication\SerialPortApplication\obj\Debug\SerialPortApplication.Properties.Resources.resources
+C:\Users\jesse\Documents\Visual Studio 2008\Projects\SerialPortApplication\SerialPortApplication\obj\Debug\SerialPortApplication.csproj.GenerateResource.Cache
+C:\Users\jesse\Documents\Visual Studio 2008\Projects\SerialPortApplication\SerialPortApplication\obj\Debug\SerialPortApplication.exe
+C:\Users\jesse\Documents\Visual Studio 2008\Projects\SerialPortApplication\SerialPortApplication\obj\Debug\SerialPortApplication.pdb
+C:\Users\jesse\Desktop\SerialPort\SerialPortApplication\obj\Debug\SerialPortApplication.exe
+C:\Users\jesse\Desktop\SerialPort\SerialPortApplication\obj\Debug\SerialPortApplication.pdb
